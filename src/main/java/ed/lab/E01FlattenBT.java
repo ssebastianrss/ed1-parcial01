@@ -1,7 +1,7 @@
 package ed.lab;
 
 public class E01FlattenBT {
-
+    // (comentario para poder hacer commit and push)
     public void flatten(TreeNode<Integer> root) {
         if (root == null) {
             return;
